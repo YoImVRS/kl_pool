@@ -20,12 +20,12 @@ Sigue estos pasos para instalar KL-Pool en tu servidor de FiveM:
 1. **Descarga el script**:
    - Clona el repositorio o descarga el archivo ZIP y extráelo en la carpeta `resources` de tu servidor.
    ```bash
-   git clone https://github.com/tu-usuario/KL-Pool.git
+   git clone https://github.com/ottersek/kl_pool.git
    ```
 
 2. **Agrega el recurso a tu `server.cfg`**:
    ```bash
-   ensure KL-Pool
+   ensure kl_pool
    ```
 
 3. **Configura el script**:
