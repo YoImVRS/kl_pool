@@ -1,4 +1,4 @@
-# 🎱 KL-Pool: Juego de Billar para FiveM [kl-scripts resource]d
+# 🎱 KL-Pool: Juego de Billar para FiveM [kl-scripts resource]
 
 ¡Bienvenido a **KL-Pool**, el mejor script de juego de billar para tu servidor de FiveM! Con este script, tus jugadores podrán disfrutar de partidas de billar realistas y emocionantes en cualquier mesa de billar del juego. Totalmente configurable y open-source bajo la licencia MIT.
 
